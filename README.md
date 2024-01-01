@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Selulox
+### 💻 Tech Stack:
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Selulox&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -7,3 +8,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Selulox&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
