@@ -11,8 +11,7 @@ I'm an indie front-end dev and a small aspiring game dev, where ı am building m
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-[!(https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
-<br />
+[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)<br />
 
 
 
