@@ -31,10 +31,6 @@ I'm an indie front-end dev and a small aspiring game dev, where ı am building m
   />
 </picture>
 
-### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Selulox&theme=dark&hide_border=false)<br/>
-
-
 
 
 
